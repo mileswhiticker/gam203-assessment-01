@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="app.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawable.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="dxmgr.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="guicon.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshBasic.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshX.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Teapot.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderLogic.cpp">
+      <Filter>Source files\RenderDemo</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderLogic_demo.cpp">
+      <Filter>Source files\RenderDemo</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderLogic_subDemo.cpp">
+      <Filter>Source files\RenderDemo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Terrain.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="app.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawable.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="dxmgr.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="guicon.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshBasic.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshX.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Teapot.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManager.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderLogic.h">
+      <Filter>Header files\RenderDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{0bc4bca5-89a6-491a-b507-8c99e31ccbc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{4b7ed48d-1d72-4a6e-9e49-b6dd49c51929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{c2d65ba4-42fe-4c5f-8423-4c8cd5933642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\RenderDemo">
+      <UniqueIdentifier>{bf175479-7490-448b-82fe-ce66a59fe275}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\RenderDemo">
+      <UniqueIdentifier>{43a56230-772f-4334-8a06-124b8351d7fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
